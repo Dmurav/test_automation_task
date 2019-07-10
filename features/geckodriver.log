@@ -757,3 +757,55 @@ JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnec
 JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
 console.log: Accessibility service init or shutdown observer does not exist.
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1562773372208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zp9MP6awTlJ3"
+1562773376492	Marionette	INFO	Listening on port 39819
+1562773376528	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:28738): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1562773416109	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.75sBx65VN4pb"
+1562773421626	Marionette	INFO	Listening on port 42743
+1562773421730	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:28933): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
