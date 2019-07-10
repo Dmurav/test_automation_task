@@ -38,7 +38,7 @@ class Page:
     def select_category(self, category):
         self.driver.find_element_by_link_text(category).click()
 
-    def filtr_choices(self):
+    def choices_page(self):
         self.driver.find_element(*PageLocators.FILTR).click()
 
     def set_price_from(self, price):
