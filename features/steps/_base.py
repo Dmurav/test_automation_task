@@ -3,11 +3,15 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 import os
 
+#Необходимый patch для использования selenium python c Firefox
 os.environ["PATH"] += os.pathsep + r'~/Documents/selenium_behave/geckodriver/'
 gecko = os.path.normpath(os.path.join(os.path.dirname(__file__), 'geckodriver'))
 
 
 class PageLocators:
+    """Класс локаторов страницы позволяет хранить атрибуты,
+    необходимые для поиска элементов на странице. Класс
+    легко расширяется и изменяется."""
     MARKET = (By.LINK_TEXT, "Маркет")
     ELECTRONICS = (By.LINK_TEXT, "Электроника")
     FILTR = (By.LINK_TEXT, "Все фильтры")
@@ -18,6 +22,10 @@ class PageLocators:
 
 
 class Page:
+    """Класс страница, позволяющий скрыть более объемную логику
+    и предоставить более удобный интерфейс для написания тестов, сокращает
+    объём написания кода при подготовке тестовых сценариев.От страницы
+    можно наследоваться и расширять число методов по мере необходимости."""
 
     def __init__(self, url):
         self.url = url

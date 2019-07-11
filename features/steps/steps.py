@@ -6,6 +6,9 @@ url = "http://www.yandex.org"
 
 @given('case_1')
 def case_1(context):
+    """Первый сценарий, в основе которого
+    лежит создание экземпляра страницы и применение
+    высокоуровневых методов."""
     page = Page(url)
     page.driver.get(page.url)
     page.market_page()
@@ -27,6 +30,9 @@ def case_1(context):
 
 @then('case_2')
 def case_2(context):
+    """Второй сценарий, в основе которого
+    лежит создание экземпляра страницы и применение
+    высокоуровневых методов."""
     page = Page(url)
     page.open()
     page.market_page()

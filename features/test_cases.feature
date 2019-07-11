@@ -1,4 +1,4 @@
-Feature: First case test yandex site
-  Scenario: Deal with yandex
+Feature: Два теста на проверку работы со страницей яндекс
+  Scenario: Работа со страницей яндекс маркет
     Given case_1
     Then  case_2
